@@ -1,0 +1,55 @@
+.container {
+    width: auto;
+    height: 800px;
+    text-align: center;
+    background-color: #9db7bc;
+    padding-left: 30px;
+  }
+
+  #height,
+  #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+  }
+  
+  #weight-guide {
+    margin-left: 75px;
+    margin-top: 25px;
+  }
+
+  #bmi-classification {
+    margin-left: 75px;
+    margin-top: 25px;
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+  }
+  
+  #results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(48, 19, 90);
+  }
+  
+  button {
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    background-color: #c9c8d3;
+    padding: 1px 20px;
+    border-radius: 8px;
+    color: hsl(224, 100%, 2%);
+    text-decoration: none;
+    border: 2px solid #212121;
+  
+    font-size: 25px;
+  }
+  
+  h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+    
+  }
